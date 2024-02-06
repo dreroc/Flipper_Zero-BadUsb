@@ -8,9 +8,7 @@
 
 # Before you start!
 
-Join the Discord-Community: https://discord.gg/WWQETvS8Vv <br>
-
-[![Alt Text](https://github.com/UNC0V3R3D/resources/blob/main/syntrip.gif)](https://syntrip.sellpass.io/products)
+Join the Discord-Community: https://discord.gg/rabbit-labs <br>
 
 ## Important:
 In order to begin, you ``must read and accept`` the usage agreement. **This project is for educational purposes only**! Please seek permission before running any of the scripts provided by me. I cannot be held responsible for any damage that may occur as a result of your use of these scripts.
